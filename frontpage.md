@@ -1,8 +1,11 @@
 # Overview
 
 ## AWS
+[Datalake and Analytics???](https://aws.amazon.com/big-data/datalakes-and-analytics/)
 ## Aure
+[Architecture on Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/big-data)
 ## GCP
+[GCP bigdata overview](https://cloud.google.com/solutions/big-data/)
 
 
 ##  Hadoop
